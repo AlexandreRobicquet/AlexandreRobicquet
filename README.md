@@ -5,7 +5,7 @@ Artificial Intelligence Research Scientist based in San Francisco.
 ## Links
 
 - GitHub: https://github.com/AlexandreRobicquet
-- Company: https://github.com/Crossing-Minds
+- Company: OpenAI
 - Twitter: https://twitter.com/AlexandreRbcqt
 
 ## About
