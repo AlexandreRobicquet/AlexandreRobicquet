@@ -1,6 +1,4 @@
-# Alexandre Robicquet
-
-I build small, legible research artifacts around one question:
+Quick intro - I build small, legible research artifacts around one question:
 
 **If models improve themselves, how do we know the improvement is real?**
 
