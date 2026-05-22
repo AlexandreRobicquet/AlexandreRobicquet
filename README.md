@@ -1,4 +1,4 @@
-Quick intro - I build small, legible research artifacts around one question:
+Quick intro - I'm Alexandre Robicquet, and I build small, legible research artifacts around one question:
 
 **If models improve themselves, how do we know the improvement is real?**
 
@@ -9,7 +9,7 @@ My current work is organized around four connected pieces:
 - test-time compute under fixed budgets
 - chain-of-thought monitoring
 
-The goal is not to publish a grab-bag of repos. It is to build one coherent body of work that makes the connection between mechanism, evaluation, budget, and oversight easy to inspect.
+The goal is not to publish a grab-bag of repos. It is to build one coherent body of work I can stand behind, with a clear connection between mechanism, evaluation, budget, and oversight.
 
 ## Currently Building
 
