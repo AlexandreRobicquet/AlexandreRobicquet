@@ -1,15 +1,13 @@
-I build small AI systems that try to keep big claims honest.
+This is less a portfolio than a shelf.
 
-The question I keep coming back to:
+I put small things here when they help me think: experiments, notes, tiny systems, and the occasional artifact that makes an AI claim harder to hand-wave.
 
-**When a model says it improved itself, who checked the receipt?**
+A few current threads:
 
-Current artifacts:
+- [`nanoWM`](https://github.com/AlexandreRobicquet/nanoWM): world models as runnable explanations.
+- [`loom`](https://github.com/AlexandreRobicquet/loom): model orchestration, critique, and the question of whether "more thinking" actually helped.
+- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): recursive language-model experiments with explicit memory policies.
 
-- [`nanoWM`](https://github.com/AlexandreRobicquet/nanoWM): world models taught as runnable code, from greenhouse what-ifs to tiny transformers.
-- [`loom`](https://github.com/AlexandreRobicquet/loom): experiments on whether critique, selection, and orchestration can beat just buying a bigger model.
-- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): recursive language-model experiments where memory is explicit instead of hand-waved.
-
-My taste: tiny repos, live numbers, fixed budgets, and fewer vibes. If a claim matters, it should leave an artifact.
+Mostly: things I find useful, interesting, or suspicious enough to measure.
 
 [Twitter](https://twitter.com/AlexandreRbcqt)
