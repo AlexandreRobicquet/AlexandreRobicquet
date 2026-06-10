@@ -1,13 +1,22 @@
-I study systems that try to understand people, worlds, and themselves.
+# Alexandre Robicquet
 
-This is a public shelf of things I find useful, interesting, or hard to stop thinking about: code, notes, experiments, and small artifacts.
+I build AI systems that remember, reason, and act.
 
-Threads:
+My work sits between research and infrastructure: memory, retrieval, evaluation, long-horizon reasoning, and learned models of the world. I care about systems that carry state, use evidence, and stay inspectable when they fail.
 
-- [`nanoWM`](https://github.com/AlexandreRobicquet/nanoWM): world models as runnable explanations.
-- [`loom`](https://github.com/AlexandreRobicquet/loom): whether more thinking actually helped.
-- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): memory made explicit.
+My background spans Stanford AI/ML, Crossing Minds, and OpenAI. This GitHub is a public shelf: runnable references, research scaffolds, and tools I find useful enough to make explicit.
 
-Less certainty. More signal.
+## Current Focus
 
-[Twitter](https://twitter.com/AlexandreRbcqt)
+- Agent memory, retrieval, and state
+- Long-horizon reasoning and evaluation
+- World models and learned dynamics
+- Personalization and human-context systems
+- Scientific discovery systems
+
+## Public Work
+
+- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): recursive long-context inspection with pluggable memory-retention policies.
+- Legacy: [`Cnn-Hypercolumn`](https://github.com/AlexandreRobicquet/Cnn-Hypercolumn) and [`Jupyter-Notebook-Atom-Scheme`](https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme) are kept for provenance, not as current work.
+
+I prefer small systems with clear contracts, live numbers, and claims that leave artifacts.
