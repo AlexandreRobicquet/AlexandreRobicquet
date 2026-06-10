@@ -1,22 +1,13 @@
 # Alexandre Robicquet
 
-I build AI systems that remember, reason, and act.
+I build AI systems that keep state.
 
-My work sits between research and infrastructure: memory, retrieval, evaluation, long-horizon reasoning, and learned models of the world. I care about systems that carry state, use evidence, and stay inspectable when they fail.
+Memory, retrieval, evaluation, and world models are the recurring pieces. I care about systems that use evidence, survive long horizons, and remain legible when they fail.
 
-My background spans Stanford AI/ML, Crossing Minds, and OpenAI. This GitHub is a public shelf: runnable references, research scaffolds, and tools I find useful enough to make explicit.
+Background: Stanford AI/ML, Crossing Minds, OpenAI.
 
-## Current Focus
+This is a small public shelf: runnable references, research scaffolds, and notes worth making explicit.
 
-- Agent memory, retrieval, and state
-- Long-horizon reasoning and evaluation
-- World models and learned dynamics
-- Personalization and human-context systems
-- Scientific discovery systems
+Current public work: [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm).
 
-## Public Work
-
-- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): recursive long-context inspection with pluggable memory-retention policies.
-- Legacy: [`Cnn-Hypercolumn`](https://github.com/AlexandreRobicquet/Cnn-Hypercolumn) and [`Jupyter-Notebook-Atom-Scheme`](https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme) are kept for provenance, not as current work.
-
-I prefer small systems with clear contracts, live numbers, and claims that leave artifacts.
+Legacy: [`Cnn-Hypercolumn`](https://github.com/AlexandreRobicquet/Cnn-Hypercolumn) · [`Jupyter-Notebook-Atom-Scheme`](https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme).
