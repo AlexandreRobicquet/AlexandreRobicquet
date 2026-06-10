@@ -1,15 +1,11 @@
-I build small AI systems that try to keep big claims honest.
+# Alexandre Robicquet
 
-The question I keep coming back to:
+I build toward AI systems that can remember, reason, and occasionally justify the confidence.
 
-**When a model says it improved itself, who checked the receipt?**
+Memory, retrieval, evaluation, and world models are the recurring pieces. I care about systems that use evidence, survive long horizons, and stay legible when they fail, which is usually where the interesting part starts.
 
-Current artifacts:
+This is a small public shelf: runnable references, research scaffolds, and notes that escaped the notebook.
 
-- [`nanoWM`](https://github.com/AlexandreRobicquet/nanoWM): world models taught as runnable code, from greenhouse what-ifs to tiny transformers.
-- [`loom`](https://github.com/AlexandreRobicquet/loom): experiments on whether critique, selection, and orchestration can beat just buying a bigger model.
-- [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm): recursive language-model experiments where memory is explicit instead of hand-waved.
+Current public work: [`nanorlm`](https://github.com/AlexandreRobicquet/nanorlm).
 
-My taste: tiny repos, live numbers, fixed budgets, and fewer vibes. If a claim matters, it should leave an artifact.
-
-[Twitter](https://twitter.com/AlexandreRbcqt)
+Legacy: [`Cnn-Hypercolumn`](https://github.com/AlexandreRobicquet/Cnn-Hypercolumn) · [`Jupyter-Notebook-Atom-Scheme`](https://github.com/AlexandreRobicquet/Jupyter-Notebook-Atom-Scheme).
